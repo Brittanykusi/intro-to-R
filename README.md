@@ -73,7 +73,7 @@ Variables can store more than just a single value, they can store a multitude of
 
 
 
-# 1.4
+## 1.4
 
 #### Reading Data into R
 - Comma separated values, csv --> read.csv(), read_csv()
