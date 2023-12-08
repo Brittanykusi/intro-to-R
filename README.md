@@ -132,5 +132,5 @@ Since factors are special vectors, the same rules for selecting values using ind
 Packages are collections of R functions, data, and compiled code in a well-defined format, created to add specific functionality. There are 10,000+ user contributed packages and growing.
 
 ## (2.3)
-add link here
+Data wrangling: dataframes, matrices, and lists
 
